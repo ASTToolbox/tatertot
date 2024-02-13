@@ -1,13 +1,13 @@
 {
   "embed": {
-    "title": "Tatertot Title",
-    "description": "Tatertot Description - Warning: THIS IS A RICKROLL WEBSITE",
-    "url": "https://bluefalconhd.github.io/tatertot",
+    "title": "Placeholder",
+    "description": "Placeholder",
+    "url": "https://asttoolbox.github.io/tatertot",
     "image": "https://github.com/BlueFalconHD/tatertot/raw/master/assets/logo.png",
     "color": "#FFFFFF"
   },
   "page": {
-    "title": "Tatertot Page Title"
+    "title": "Placeholder"
   },
 
   "redirect": "https://shattereddisk.github.io/rickroll/rickroll.mp4",
