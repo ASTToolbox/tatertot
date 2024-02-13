@@ -13,6 +13,8 @@ let html = `<!DOCTYPE html>
     .body { width: 100vw; height: 100vh; padding: 0px; margin: 0px; overflow: hidden;};
   </style>
   <script async src="./taterloader.js"></script>
+   <script src="https://unpkg.com/@ungap/custom-elements-builtin"></script>
+    <script type="module" src="https://unpkg.com/x-frame-bypass"></script>
 </head>
 
 <body class="body">
@@ -22,7 +24,7 @@ let html = `<!DOCTYPE html>
     }, ${config.delay});
   </script>
 
-  <iframe src="${config.iframe}" style="box-shadow: none !important; width: 100vw; height: 100vh;"></iframe>
+  <iframe is="x-frame-bypass" src="${config.iframe}" style="box-shadow: none !important; width: 100vw; height: 100vh;"></iframe>
 </body>
 `;
 
