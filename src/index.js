@@ -14,7 +14,7 @@ let html = `<!DOCTYPE html>
   </style>
   <script async src="./taterloader.js"></script>
    <script src="https://unpkg.com/@ungap/custom-elements-builtin"></script>
-    <script type="module" src="https://raw.githubusercontent.com/ASTToolbox/x-frame-bypass/master/x-frame-bypass.js"></script>
+    <script type="text/javascript" src="https://raw.githubusercontent.com/ASTToolbox/x-frame-bypass/master/x-frame-bypass.js"></script>
 </head>
 
 <body class="body">
